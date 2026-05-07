@@ -1,0 +1,14 @@
+﻿<Page x:Class="Victorina.Pages.ResultPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Результат"
+      Background="Black">
+
+    <Grid>
+        <TextBlock Text="Результаты"
+                   FontSize="24"
+                   Foreground="White"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+    </Grid>
+</Page>
