@@ -20,9 +20,34 @@ namespace Victorina.Pages
     /// </summary>
     public partial class ResultPage : Page
     {
-        public ResultPage()
+        public ResultPage(int score, int total)
         {
             InitializeComponent();
+
+            ScoreText.Text = $"{score} из {total} правильных";
+            double percent = (double)score / total * 100;
+
+            if (percent >= 80)
+            {
+                EmojiText.Text = "🏆";
+                CommentText.Text = "Хорошо!";
+            }
+            else if (percent >= 50) {
+                EmojiText.Text = "👍";
+                CommentText.Text = "Неплохо!";
+            }
+            else
+            {
+                EmojiText.Text = "📚";
+                CommentText.Text = "Плохо";
+            }
+
         }
+
+        private void restart_click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Page1());
+        }
+
     }
 }

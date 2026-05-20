@@ -18,7 +18,5 @@ namespace Victorina.Models
             CorrectIndex = correctIndex;
 
         }
-
-
     }
 }

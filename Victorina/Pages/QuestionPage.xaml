@@ -5,6 +5,10 @@
       Background="Black">
 
     <Grid Margin="40">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="58*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
@@ -15,18 +19,18 @@
                    FontSize="14"
                    Foreground="White"
                    Grid.Row="0"
-                   Margin="0,0,0,10"/>
+                   Margin="0,0,0,10" Grid.ColumnSpan="2"/>
 
         <TextBlock Text="Текст вопроса"
                    x:Name="QuestionText"
                    FontSize="24"
                    Foreground="White"
-                   Grid.Row="0"
+                   Grid.Row="1"
                    FontWeight="SemiBold"
                    TextWrapping="Wrap"
-                   Margin="0,0,0,10"/>
+                   Margin="0,0,0,10" Grid.ColumnSpan="2"/>
 
-        <StackPanel x:Name="OptionPanel" Grid.Row="2">
+        <StackPanel x:Name="OptionPanel" Grid.Row="2" Grid.ColumnSpan="2">
             <Button x:Name="Option0" Click="Option_Click"/>
             <Button x:Name="Option1" Click="Option_Click"/>
             <Button x:Name="Option2" Click="Option_Click"/>

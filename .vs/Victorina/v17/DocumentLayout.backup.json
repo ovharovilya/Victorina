@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "G:\\C#\\Victorina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|g:\\c#\\victorina\\victorina\\pages\\questionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\questionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\questionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\questionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|g:\\c#\\victorina\\victorina\\pages\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\questionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\questionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\startpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\startpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\pages\\questionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\pages\\questionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\models\\quizdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|solutionrelative:victorina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46FF73F-593F-4DF6-A103-1B09625C8D6F}|Victorina\\Victorina.csproj|G:\\C#\\Victorina\\victorina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,20 +50,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultPage.xaml.cs",
+              "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml.cs",
+              "RelativeDocumentMoniker": "Victorina\\Pages\\ResultPage.xaml.cs",
+              "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml.cs",
+              "RelativeToolTip": "Victorina\\Pages\\ResultPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:59:40.683Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ResultPage.xaml",
+              "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml",
+              "RelativeDocumentMoniker": "Victorina\\Pages\\ResultPage.xaml",
+              "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml",
+              "RelativeToolTip": "Victorina\\Pages\\ResultPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-06T10:31:25.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "QuestionPage.xaml.cs",
               "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml.cs",
               "RelativeDocumentMoniker": "Victorina\\Pages\\QuestionPage.xaml.cs",
               "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml.cs",
               "RelativeToolTip": "Victorina\\Pages\\QuestionPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwFMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T09:08:03.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:08:03.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionPage.xaml",
+              "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml",
+              "RelativeDocumentMoniker": "Victorina\\Pages\\QuestionPage.xaml",
+              "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml",
+              "RelativeToolTip": "Victorina\\Pages\\QuestionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-06T10:23:25.245Z"
             },
             {
               "$type": "Document",
@@ -69,7 +107,7 @@
               "RelativeDocumentMoniker": "Victorina\\Models\\QuizData.cs",
               "ToolTip": "G:\\C#\\Victorina\\Victorina\\Models\\QuizData.cs",
               "RelativeToolTip": "Victorina\\Models\\QuizData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T11:13:24.088Z"
             },
@@ -81,41 +119,19 @@
               "RelativeDocumentMoniker": "Victorina\\Models\\Question.cs",
               "ToolTip": "G:\\C#\\Victorina\\Victorina\\Models\\Question.cs",
               "RelativeToolTip": "Victorina\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T10:38:21.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResultPage.xaml",
-              "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml",
-              "RelativeDocumentMoniker": "Victorina\\Pages\\ResultPage.xaml",
-              "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\ResultPage.xaml",
-              "RelativeToolTip": "Victorina\\Pages\\ResultPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T10:31:25.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuestionPage.xaml",
-              "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml",
-              "RelativeDocumentMoniker": "Victorina\\Pages\\QuestionPage.xaml",
-              "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\QuestionPage.xaml",
-              "RelativeToolTip": "Victorina\\Pages\\QuestionPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T10:23:25.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "StartPage.xaml.cs",
               "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\Pages\\StartPage.xaml.cs",
               "RelativeDocumentMoniker": "Victorina\\Pages\\StartPage.xaml.cs",
               "ToolTip": "G:\\C#\\Victorina\\Victorina\\Pages\\StartPage.xaml.cs",
               "RelativeToolTip": "Victorina\\Pages\\StartPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T09:07:29.82Z"
             },
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Victorina\\MainWindow.xaml",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "G:\\C#\\Victorina\\Victorina\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Victorina\\MainWindow.xaml.cs",

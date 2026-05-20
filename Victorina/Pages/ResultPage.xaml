@@ -5,10 +5,12 @@
       Background="Black">
 
     <Grid>
-        <TextBlock Text="Результаты"
-                   FontSize="24"
-                   Foreground="White"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"/>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock x:Name="EmojiText" FontSize="80" HorizontalAlignment="Center" Foreground="White" Margin="0,0,0,10"/>
+            <TextBlock Text="Результат: " FontSize="36" FontWeight="SemiBold" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+            <TextBlock x:Name="ScoreText" FontSize="22" Foreground="#CCCCCC" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+            <TextBlock x:Name="CommentText" FontSize="16" Foreground="#888888" HorizontalAlignment="Center" Margin="0,0,0,5"/>
+            <Button Content="Пройти еще раз" HorizontalAlignment="Center" Click="restart_click"/>
+        </StackPanel>
     </Grid>
 </Page>
